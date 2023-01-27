@@ -28,5 +28,5 @@
 ```
 
 ## Evidecia de ejecución
-<img src="./src/evidencia.png" width="400" />
+<img src="./src/evidencia.png" width="700" />
     
