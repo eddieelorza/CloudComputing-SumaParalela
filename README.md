@@ -26,4 +26,7 @@
    g++-12 -fopenmp sumaParalela.cpp -o suma
    ./suma
 ```
+
+## Evidecia de ejecución
+<img src="./src/evidencia.png" width="400" />
     

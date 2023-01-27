@@ -3,7 +3,7 @@
 
 #define N 1000 // tamaño del arreglo a sumar
 #define chunk 100 // tamaño de los pedazos de los arreglos
-#define mostrar 10 // cantidad de valores a mostrar de los arreglos
+#define mostrar 100 // cantidad de valores a mostrar de los arreglos
 
 void imprimeArreglo(float *d); // función para imprimir los arreglos a, b y c
 
